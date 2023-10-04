@@ -28,9 +28,9 @@ export default function Features() {
                     </div>
                 </article>
             </div>
-            <article className="self-center flex justify-between items-center mt-6">
-                <button className="self-center font-semibold bg-secondary text-white mr-8 py-3 px-12 rounded-full hover:bg-primary duration-200 flex items-center"><i className="bi bi-chat-left-text mr-2"/>Message us today!</button>
-                <a href="#" className="self-center text-sm text-primary hover:text-secondary underline duration-200">Learn more</a>
+            <article className="self-center flex justify-center items-center mt-6 flex-wrap">
+                <button className="self-center font-semibold bg-secondary text-white mr-8 py-3 px-12 rounded-full hover:bg-primary duration-200 flex items-center mb-6"><i className="bi bi-chat-left-text mr-2"/>Message us today!</button>
+                <a href="#" className="self-center text-sm text-primary hover:text-secondary underline duration-200 mb-6">Learn more</a>
             </article>
         </section>
     )
