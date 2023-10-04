@@ -9,7 +9,7 @@ export default function Header(){
 <header>
     <nav className="fixed z-20 w-full bg-white/80 dark:bg-gray-900/80 navbar peer-checked:navbar-active md:relative md:bg-transparent dark:shadow-none">
         <div className="xl:container m-auto px-6 md:px-12">
-            <div className="flex flex-wrap items-center justify-between gap-6 md:py-3 md:gap-0">
+            <div className="flex flex-wrap items-center justify-between gap-6 md:pb-3 md:gap-0">
                 <div className="w-full flex justify-between lg:w-auto">
                     <a href="#" aria-label="logo" className="flex space-x-2 items-center">
                         <Image src={Logo} alt="icon" className="mb-6" width="120" height="120"/>
