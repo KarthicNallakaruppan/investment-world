@@ -9,9 +9,9 @@ export default function Footer() {
                 <div className="sm:flex sm:justify-between flex-wrap">
                     <div className='flex'>
                         <a href="#" className="mb-4 mr-10 sm:mb-0">
-                            <Image src={Logo} alt="icon" class="mb-6" width="120" height="120" />
+                            <Image src={Logo} alt="icon" className="mb-6" width="120" height="120" />
                         </a>
-                        <div><Image src={PIAMLogo} alt="icon" class="mb-6" width="120" height="120" /></div>
+                        <div><Image src={PIAMLogo} alt="icon" className="mb-6" width="120" height="120" /></div>
                     </div>
                     <div className="flex flex-col">
                         <ul className="flex flex-wrap mb-6 text-sm text-sm font-medium sm:mb-0 text-gray-600">
