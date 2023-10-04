@@ -4,7 +4,7 @@ import PIAMLogo from './assets/images/PIAMLogo.png'
 
 export default function Footer() {
     return (
-        <section className=" mb-8" >
+        <section className="px-8 mb-8" >
             <div className="w-full mx-auto p-4 md:py-8">
                 <div className="sm:flex sm:justify-between flex-wrap">
                     <div className='flex'>
